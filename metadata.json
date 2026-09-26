@@ -1,0 +1,6 @@
+{
+  "name": "Win Go 30s",
+  "description": "Win Go 30s Live Prediction and Telegram Signal Control Center",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
